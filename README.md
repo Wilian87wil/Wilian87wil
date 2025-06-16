@@ -1,9 +1,6 @@
 <h1 align="center"><b>Hi, I'm a programmer</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<div align="center" style="margin-top: 30px;">
-  <img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/spiderman.gif" alt="Descripción del GIF" style="width: 70px; height: 70px;">
-  <h1 style="padding-top: 10px; font-size: 15px;">Hi, I'm Wilian, this is my presentation:</h1>
-</div>
+<h1 align="center"> <img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/spiderman.gif" alt="Descripción del GIF" style="width: 70px; height: 70px;"><h1 style="padding-top: 10px; font-size: 15px;">Hi, I'm Wilian, this is my presentation:</h1></h1>
 
 
  <div style="display:flex; margin-top:50px">
