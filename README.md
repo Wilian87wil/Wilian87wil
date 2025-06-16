@@ -5,13 +5,12 @@
   width="70"
   height="70"
   align="middle"
-  alt="Spidey" /> <strong>Hi, I am Wilian, this is my presentation:</strong>
+  alt="Spidey" />
+<!-- Espacio invisible de 10px -->
+<img
+  src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif"
+  width="1"
+  height="10"
+  alt="" />
+<strong>Hi, I am Wilian, this is my presentation:</strong>
 
-
-
-
-
-
-
-
-  <img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/spiderman2.gif" alt="Descripción del GIF" style="width: 70px; height: 70px;">
