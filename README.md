@@ -6,7 +6,5 @@
   height="70"
   align="middle"
   alt="Spidey" /> 
-<p align="center">
-  <strong>Texto centrado</strong>
-</p>
+<strong>Hi, I am Wilian, this is my presentation:</strong>
 
