@@ -5,12 +5,14 @@
     src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/spiderman.gif"
     width="70"
     height="70"
-    align="middle"
+    align="absmiddle"
     alt="Spidey"
-    padding-top="5px"
   />
-  <strong>Hi, I am Wilian, this is my presentation:</strong>
+  <strong style="font-size:15px; margin-left:10px;">
+    Hi, I am Wilian, this is my presentation:
+  </strong>
 </p>
+
 
 
 
