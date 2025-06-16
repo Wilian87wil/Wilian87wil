@@ -8,9 +8,6 @@
   alt="Spidey" />
 <!-- Espacio invisible de 10px -->
 <img
-  src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif"
-  width="1"
-  height="5"
-  alt="" />
+  src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif">
 <strong>Hi, I am Wilian, this is my presentation:</strong>
 
