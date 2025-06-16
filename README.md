@@ -5,9 +5,5 @@
   width="70"
   height="70"
   align="middle"
-  alt="Spidey" />
-<!-- Espacio invisible de 10px -->
-<img
-  src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif">
-<strong>Hi, I am Wilian, this is my presentation:</strong>
+  alt="Spidey" /> <strong>Hi, I am Wilian, this is my presentation:</strong>
 
