@@ -8,7 +8,7 @@
     align="absmiddle"
     alt="Spidey"
   />
-  <strong style="font-size:15px; margin-left:10px;" padding-top="3px">
+  <strong style="font-size:15px; margin-left:10px;" padding-top="10px">
     Hi, I am Wilian, this is my presentation:
   </strong>
 </p>
