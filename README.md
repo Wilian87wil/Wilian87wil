@@ -7,6 +7,7 @@
     height="70"
     align="middle"
     alt="Spidey"
+    padding-top="5px"
   />
   <strong>Hi, I am Wilian, this is my presentation:</strong>
 </p>
