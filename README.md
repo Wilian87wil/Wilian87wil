@@ -10,7 +10,7 @@
 <img
   src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif"
   width="1"
-  height="10"
+  height="5"
   alt="" />
 <strong>Hi, I am Wilian, this is my presentation:</strong>
 
