@@ -5,5 +5,6 @@
   width="70"
   height="70"
   align="middle"
-  alt="Spidey" /> <strong>Hi, I am Wilian, this is my presentation:</strong>
+  alt="Spidey" /> 
+<sub><strong>Hi, I am Wilian, this is my presentation:</strong></sub>
 
