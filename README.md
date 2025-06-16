@@ -6,5 +6,5 @@
   height="70"
   align="middle"
   alt="Spidey" /> 
-<sub><strong>Hi, I am Wilian, this is my presentation:</strong></sub>
+<strong>Hi, I am Wilian, this is my presentation:</strong>
 
