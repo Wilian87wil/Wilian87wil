@@ -5,4 +5,4 @@
   <h1 style="margin-left: 10px;padding-top:30px;font-size:15px">Hi, I am Wilian, this is my presentation:</h1>
 </div>
 
-<img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/spiderman2.gif" style="width:20px; height:20px">
+  <img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/spiderman.gif" alt="Descripción del GIF" style="width: 70px; height: 70px;">
