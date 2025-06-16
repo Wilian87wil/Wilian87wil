@@ -2,8 +2,9 @@
 
 <div style="display: flex; align-items: center;">
   <img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/spiderman.gif" alt="Descripción del GIF" style="width: 70px; height: 70px;">
-  <h1 style="margin-left: 10px;font-size:15px">Hi, I am Wilian, this is my presentation:</h1>
+  <h1 style="margin-left: 10px; font-size: 15px;">Hi, I am Wilian, this is my presentation:</h1>
 </div>
+
 
  <div style="display:flex; margin-top:50px">
    <img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/spiderman2.gif" alt="Descripción del GIF" style="width:20px; height:20px">
