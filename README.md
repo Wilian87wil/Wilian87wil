@@ -21,4 +21,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/img/pngwing.com.png" width="25" height="25" align="middle"/> Basic knowledge of cloud services (AWS)
 
 
-ola
+## My Skills:
