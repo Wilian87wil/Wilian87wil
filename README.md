@@ -2,7 +2,7 @@
 
 ## <img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/spiderman.gif" width="100" height="100" align="middle" alt="Spidey" /> **Hi, I am Wilian, this is my presentation:**
 
-<img align="right" alt="Unicorn" width="500" height="500" src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/deadpool.gif"/>
+<img align="right" alt="Unicorn" width="300" height="300" src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/deadpool.gif"/>
 
 
 <img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/spiderman5.gif" width="30" height="30" align="middle"/> Hi there! I'm Wilian, a Software Engineering student and passionate programmer.<br>
@@ -50,7 +50,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <
+img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
