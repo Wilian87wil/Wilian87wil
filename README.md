@@ -2,7 +2,7 @@
 
 ## <img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/spiderman.gif" width="100" height="100" align="middle" alt="Spidey" /> **Hi, I am Wilian, this is my presentation:**
 
-<img align="right" alt="Unicorn" width="400" height="400" src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/deadpool.gif"/>
+<img align="right" alt="Unicorn" width="350" height="350" src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/deadpool.gif"/>
 
 
 <img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/spiderman5.gif" width="30" height="30" align="middle"/> Hi there! I'm Wilian, a Software Engineering student and passionate programmer.<br>
@@ -61,7 +61,8 @@ img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescrip
 </div>
 
 
-## <img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/character_transparent_cropped.gif" width="30" height="50" align="middle"/> Technologies used in my repositories:
+## <img src=
+"https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/character_transparent_cropped.gif" width="30" height="50" align="middle"/> Technologies used in my repositories:
 
 
 <div align="left">
