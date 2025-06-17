@@ -76,6 +76,6 @@
   <img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/spiderman6.gif" width="80" height="100" align="middle"/>
 </h2>
 
-<h1 align="center">
+<div align="center">
   <img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/135fae39589d0b363f5388372db8132a.gif" width="300" />
-</h1>
+</div>
