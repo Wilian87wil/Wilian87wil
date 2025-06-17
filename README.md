@@ -31,7 +31,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/img/pngwing.com.png" width="25" height="25" align="middle"/> I like to teach those who need it
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/img/pngwing.com.png" width="25" height="25" align="middle"/> I'm passionate about learning all kinds of technologies and exploring the different branches of the computing world.
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/img/pngwing.com.png" width="25" height="25" align="middle"/> I'm passionate about learning all kinds of technologies and exploring the different branches of the computing world.
 
 ## <img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/character_transparent_cropped.gif" width="30" height="50" align="middle"/> My Skills:
 
@@ -51,8 +52,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <
-img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -62,8 +62,7 @@ img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescrip
 </div>
 
 
-## <img src=
-"https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/character_transparent_cropped.gif" width="30" height="50" align="middle"/> Technologies used in my repositories:
+## <img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/character_transparent_cropped.gif" width="30" height="50" align="middle"/> Technologies used in my repositories:
 
 
 <div align="left">
