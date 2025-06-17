@@ -22,3 +22,10 @@
 
 
 ## <img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/character_transparent_cropped.gif" width="30" height="50" align="middle"/> My Skills:
+
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+</div>
