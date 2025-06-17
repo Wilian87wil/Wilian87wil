@@ -61,3 +61,8 @@
 
 
 ## <img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/character_transparent_cropped.gif" width="30" height="50" align="middle"/> Technologies used in my repositories:
+
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wilian87wil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=onedark&hide_border=false" height="200" alt="languages graph"  />
+</div>
