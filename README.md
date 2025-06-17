@@ -24,6 +24,14 @@
 
 <img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/spiderman5.gif" width="30" height="30" align="middle"/> **Soft Skills:**
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/img/pngwing.com.png" width="25" height="25" align="middle"/> Work as a team
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/img/pngwing.com.png" width="25" height="25" align="middle"/> Be self-taught
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/img/pngwing.com.png" width="25" height="25" align="middle"/> I like to teach those who need it
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/img/pngwing.com.png" width="25" height="25" align="middle"/> Prioritize work
+
 ## <img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/character_transparent_cropped.gif" width="30" height="50" align="middle"/> My Skills:
 
 
@@ -50,3 +58,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
+
+
+## <img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/character_transparent_cropped.gif" width="30" height="50" align="middle"/> Technologies used in my repositories:
