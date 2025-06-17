@@ -1,8 +1,10 @@
 <h1 align="center"><b>Hi, I'm a programmer</b><img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/spiderman4.gif" width="40" height="40"></h1>
 
 ## <img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/spiderman.gif" width="100" height="100" align="middle" alt="Spidey" /> **Hi, I am Wilian, this is my presentation:**
-<br><br><br><br>
-<img align="right" alt="Unicorn" width="300" height="300" src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/deadpool.gif"/>
+
+<div align="center">
+  <img align="right" alt="Unicorn" width="300" height="300" src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/deadpool.gif"/>
+</div>
 
 
 <img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/spiderman5.gif" width="30" height="30" align="middle"/> Hi there! I'm Wilian, a Software Engineering student and passionate programmer.<br>
