@@ -30,7 +30,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/img/pngwing.com.png" width="25" height="25" align="middle"/> I like to teach those who need it
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/img/pngwing.com.png" width="25" height="25" align="middle"/> Prioritize work
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/img/pngwing.com.png" width="25" height="25" align="middle"/> I'm passionate about learning all kinds of technologies and exploring the different branches of the computing world.
 
 ## <img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/character_transparent_cropped.gif" width="30" height="50" align="middle"/> My Skills:
 
