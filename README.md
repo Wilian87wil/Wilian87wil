@@ -62,7 +62,7 @@
 </div>
 
 
-## <img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/character_transparent_cropped.gif" width="30" height="50" align="middle"/> Technologies used in my repositories:
+## <img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/character_transparent_cropped.gif" width=100" height="100" align="middle"/> Technologies used in my repositories:
 
 
 <div align="left">
