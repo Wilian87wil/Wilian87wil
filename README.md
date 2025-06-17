@@ -62,15 +62,12 @@
 </div>
 
 
-<h2 align="center">
-  Thanks for visiting my GitHub 
-  <img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/spiderman6.gif" width="80" height="100" align="middle"/>
-</h2>
-
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Wilian87wil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 
-## Thanks for visiting my GitHub <img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/spiderman6.gif" width="80" height="100" align="middle"/>
+<h2 align="center">
+  Thanks for visiting my GitHub 
+  <img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/spiderman6.gif" width="80" height="100" align="middle"/>
+</h2>
