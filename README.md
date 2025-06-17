@@ -6,5 +6,6 @@
   height="70"
   align="middle"
   alt="Spidey" /> 
-<strong style="font-size: 24px;">Hi, I am Wilian, this is my presentation:</strong>
+## **Hi, I am Wilian, this is my presentation:**
+
 
