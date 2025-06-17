@@ -12,8 +12,4 @@
 
 <img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/spiderman5.gif" width="30" height="30" align="middle"/> **Technologies I work with:**
 
-<ul>
-    <li>
-      ola
-    </li>
-</ul>
+<img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/img/pngwing.com.png" width="15" height="15"/>
