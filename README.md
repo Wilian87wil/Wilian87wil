@@ -31,7 +31,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/img/pngwing.com.png" width="25" height="25" align="middle"/> Be self-taught
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/img/pngwing.com.png" width="25" height="25" align="middle"/> I like to teach those who need it
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/img/pngwing.com.png" width="25"
+ height="25" align="middle"/> I like to teach those who need it
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/img/pngwing.com.png" width="25" height="25" align="middle"/> I'm passionate about learning all kinds of technologies and exploring the different branches of the computing world.
@@ -77,5 +78,5 @@
 </h2>
 
 <div align="center">
-  <img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/135fae39589d0b363f5388372db8132a.gif" width="300" />
+  <img src="https://githubwilian2005.s3.us-east-2.amazonaws.com/gifs/135fae39589d0b363f5388372db8132a.gif" />
 </div>
